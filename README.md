@@ -6,10 +6,9 @@ This is the python implementation about **Fine-grained Multimodal DeepFake Class
 
 ## Environment
 
-pytorch==1.6.0
+pytorch==1.7.0
 torchvision==0.5.0
 cudatoolkit==10.1
-timm==0.4.12
 
 
 
